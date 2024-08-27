@@ -6,7 +6,13 @@ To study and implement Classes and Objects.
 ##### Software 
 VS Code 
 
-##### Theory  
+##### Theory 
+Class -> A class is a usser-defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. <br> 
+Object-> When a class is defined, only the specification for the object is defined, no memory or storage is allocated. To use the data and access functions defined in the clss, we need to create objects. <br> 
+In C++, there are three access specifiers that are: <br> 
+(1) Public: Members declared as public can be accessed from outside the class. <br> 
+(2) Private: Members declared as private can only be accessed within the class itself. <br>  
+(3) Protected: Members declared as protected cn be accessed within the class and by derived classes. <br>         
 
 ##### Code 
 
